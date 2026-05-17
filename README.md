@@ -46,8 +46,6 @@ The project aims to identify user behavior patterns, content performance trends,
 
 # 📂 Project Workflow
 
----
-
 # 📥 Task 1 — Data Import & Setup
 
 The dataset was imported using Pandas and prepared for analysis.
